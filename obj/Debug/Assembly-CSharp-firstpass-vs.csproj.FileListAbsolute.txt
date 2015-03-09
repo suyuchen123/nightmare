@@ -1,0 +1,11 @@
+D:\nightmare\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+D:\nightmare\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+D:\nightmare\Temp\bin\Debug\UnityEditor.dll
+D:\nightmare\Temp\bin\Debug\UnityEngine.dll
+D:\nightmare\Temp\bin\Debug\Mono.Cecil.dll
+D:\nightmare\Temp\bin\Debug\nunit.framework.dll
+D:\nightmare\Temp\bin\Debug\Unity.DataContract.dll
+D:\nightmare\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+D:\nightmare\obj\Debug\Assembly-CSharp-firstpass-vs.csprojResolveAssemblyReference.cache
+D:\nightmare\obj\Debug\Assembly-CSharp-firstpass.dll
+D:\nightmare\obj\Debug\Assembly-CSharp-firstpass.pdb

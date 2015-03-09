@@ -1,0 +1,167 @@
+fileFormatVersion: 2
+guid: dc9246913fabca44a9d54802221639c9
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: 001xx66 1
+    100002: 001xx66 2
+    100004: 3D_________-_______________
+    100006: Capsule02
+    100008: Cylinder01
+    100010: Cylinder02
+    100012: Cylinder03
+    100014: Cylinder04
+    100016: Cylinder05
+    100018: Cylinder06
+    100020: //RootNode
+    100022: Line04
+    100024: Loft01
+    100026: Loft01_MeshPart0
+    100028: Loft01_MeshPart1
+    100030: Loft01_MeshPart2
+    100032: Loft01_MeshPart3
+    100034: Loft01_MeshPart4
+    100036: Loft01_MeshPart5
+    100038: Loft01_MeshPart6
+    100040: Loft02
+    100042: Loft02_MeshPart0
+    100044: Loft02_MeshPart1
+    100046: Text01
+    100048: Torus01
+    400000: 001xx66 1
+    400002: 001xx66 2
+    400004: 3D_________-_______________
+    400006: Capsule02
+    400008: Cylinder01
+    400010: Cylinder02
+    400012: Cylinder03
+    400014: Cylinder04
+    400016: Cylinder05
+    400018: Cylinder06
+    400020: //RootNode
+    400022: Line04
+    400024: Loft01
+    400026: Loft01_MeshPart0
+    400028: Loft01_MeshPart1
+    400030: Loft01_MeshPart2
+    400032: Loft01_MeshPart3
+    400034: Loft01_MeshPart4
+    400036: Loft01_MeshPart5
+    400038: Loft01_MeshPart6
+    400040: Loft02
+    400042: Loft02_MeshPart0
+    400044: Loft02_MeshPart1
+    400046: Text01
+    400048: Torus01
+    2300000: Capsule02
+    2300002: Cylinder01
+    2300004: Cylinder02
+    2300006: Cylinder03
+    2300008: Cylinder04
+    2300010: Cylinder05
+    2300012: Cylinder06
+    2300014: Line04
+    2300016: Loft01_MeshPart0
+    2300018: Loft01_MeshPart1
+    2300020: Loft01_MeshPart2
+    2300022: Loft01_MeshPart3
+    2300024: Loft01_MeshPart4
+    2300026: Loft01_MeshPart5
+    2300028: Loft01_MeshPart6
+    2300030: Loft02_MeshPart0
+    2300032: Loft02_MeshPart1
+    2300034: Text01
+    2300036: Torus01
+    3300000: Capsule02
+    3300002: Cylinder01
+    3300004: Cylinder02
+    3300006: Cylinder03
+    3300008: Cylinder04
+    3300010: Cylinder05
+    3300012: Cylinder06
+    3300014: Line04
+    3300016: Loft01_MeshPart0
+    3300018: Loft01_MeshPart1
+    3300020: Loft01_MeshPart2
+    3300022: Loft01_MeshPart3
+    3300024: Loft01_MeshPart4
+    3300026: Loft01_MeshPart5
+    3300028: Loft01_MeshPart6
+    3300030: Loft02_MeshPart0
+    3300032: Loft02_MeshPart1
+    3300034: Text01
+    3300036: Torus01
+    4300000: Cylinder06
+    4300002: Torus01
+    4300004: Text01
+    4300006: Cylinder02
+    4300008: Loft02_MeshPart0
+    4300010: Loft02_MeshPart1
+    4300012: Cylinder01
+    4300014: Loft01_MeshPart0
+    4300016: Loft01_MeshPart1
+    4300018: Loft01_MeshPart2
+    4300020: Loft01_MeshPart3
+    4300022: Loft01_MeshPart4
+    4300024: Loft01_MeshPart5
+    4300026: Loft01_MeshPart6
+    4300028: Capsule02
+    4300030: Line04
+    4300032: Cylinder04
+    4300034: Cylinder05
+    4300036: Cylinder03
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
